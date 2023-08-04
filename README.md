@@ -14,5 +14,5 @@
 >  배경 음악, 효과음 삽입 <br />
 
 ### VR 햄버거 만들기 게임 시연영상 <br />
-https://github.com/minyoung0101q/mern-sports-ecommerce-website/assets/130943387/8188bc5e-44f3-44e8-be12-daefefcc8884 
+
 <br />

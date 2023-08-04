@@ -14,4 +14,4 @@
 >  배경 음악, 효과음 삽입 <br />
 
 ### VR 햄버거 만들기 게임 시연영상 <br />
-https://drive.google.com/file/d/1ogdU_0ZkGe4oALKyhpVMqwO3u4SJon1_/view?usp=drive_link
+>  영상 용량이 큰 관계로, 포트폴리오에 영상을 첨부해두었습니다. <br />

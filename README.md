@@ -27,5 +27,5 @@ https://github.com/minyoung0101q/java-basic/assets/130943387/2043171d-94f4-4ac6-
 > <br />
 >  다섯번째, 여섯번째 미션을 클리어합니다. <br />
 https://github.com/minyoung0101q/java-basic/assets/130943387/d46d1242-cc1f-4f53-8796-a0833464993d <br />
->  미션을 3분 제한시간 내에 클리어하지 못하면 게임 종료 창이 뜹니다. <br />
+>  미션을 3분 제한시간 내에 클리어하지 못하면 쿼터는 종료되며 게임 종료 창이 뜹니다. <br />
 https://github.com/minyoung0101q/java-basic/assets/130943387/49335035-1506-4e61-95ef-80ff79a93f68
